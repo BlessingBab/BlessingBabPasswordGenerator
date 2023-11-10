@@ -4,6 +4,8 @@
 
 ## Description
 
+This application allowed an employee with sensitive data to access to generate passord that a certain critiria so that it can be strong and provide greate security.
+
 ## Usage
 
 ## Installation
