@@ -12,19 +12,11 @@ This application allowed an employee with sensitive data to access to generate p
 
 ## Installation
 
-The project was uploaded to GitHub
+The project was uploaded to [GitHub](https://github.com/)
 
-The repository created for the project is :
+The repository created for the project is : https://github.com/BlessingBab/BlessingBabPasswordGenerator
 
-Deployed Application:
-
-## Process
-
-```
-
-
-
-```
+Deployed Application:https://blessingbab.github.io/BlessingBabPasswordGenerator/
 
 ## License
 
