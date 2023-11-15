@@ -6,7 +6,9 @@
 
 This application allowed an employee with sensitive data to access to generate passord that a certain critiria so that it can be strong and provide greate security.
 
-## Usage
+## Screenshot
+
+![alt the webpage screepage](assets/images/Screenshot.png)
 
 ## Installation
 

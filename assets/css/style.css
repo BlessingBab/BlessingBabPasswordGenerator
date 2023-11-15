@@ -3,19 +3,23 @@
 *::after {
   box-sizing: border-box;
 }
-
 html,
 body,
 .wrapper {
   height: 100%;
   margin: 0;
   padding: 0;
-  background-color: rgb(42, 191, 245);
 }
 
 body {
   font-family: sans-serif;
   background-color: #f9fbfd;
+}
+
+.wrapper {
+  padding-top: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 header {
