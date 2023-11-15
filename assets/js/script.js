@@ -79,7 +79,7 @@ var passwordNumericCharacter;
 var passwordUpperCase;
 var passwordLowerCase;
 
-//length
+//length function declaration
 function confirmLength() {
   passwordLength = prompt(
     "Choose the password characters to be between 8-128 "
@@ -93,7 +93,7 @@ function confirmLength() {
   }
   return passwordLength;
 }
-
+//uupercase function declaration
 function confirmUppercase() {
   passwordUpperCase = prompt(
     "Do you want to include uppercase letters in your password? \n(Yes or No)"
@@ -116,6 +116,7 @@ function confirmUppercase() {
   return passwordUpperCase;
 }
 
+//Special Characters function declaration
 function confirmSpecialCharacter() {
   passwordSpecialCharacter = prompt(
     "Do you want to include special characters in your passwords? \n(Yes or No)"
@@ -145,6 +146,7 @@ function confirmSpecialCharacter() {
   return passwordSpecialCharacter;
 }
 
+// Numbers function declaration
 function confirmNumbers() {
   passwordNumericCharacter = prompt(
     "Do you want to include numbers in your password? \n(Yes or No)"
